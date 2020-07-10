@@ -1,0 +1,5 @@
+C:\Users\jenir\source\repos\WebScraper\bin\Debug\netcoreapp3.1\WebScraper.exe
+C:\Users\jenir\source\repos\WebScraper\obj\Debug\netcoreapp3.1\WebScraper.csprojAssemblyReference.cache
+C:\Users\jenir\source\repos\WebScraper\obj\Debug\netcoreapp3.1\WebScraper.AssemblyInfoInputs.cache
+C:\Users\jenir\source\repos\WebScraper\obj\Debug\netcoreapp3.1\WebScraper.AssemblyInfo.cs
+C:\Users\jenir\source\repos\WebScraper\obj\Debug\netcoreapp3.1\WebScraper.csproj.CoreCompileInputs.cache
